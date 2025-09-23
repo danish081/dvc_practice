@@ -1,11 +1,11 @@
-ID,cell,Name,Age,Gender,City
-1,1234567890,Ali Khan,25,Male,Lahore
-2,2345678901,Sara Ahmed,22,Female,Karachi
-3,3456789012,Bilal Hussain,28,Male,Islamabad
-4,4567890123,Ayesha Malik,30,Female,Faisalabad
-5,5678901234,Hamza Ali,27,Male,Rawalpindi
-6,6789012345,Fatima Noor,24,Female,Multan
-7,7890123456,Usman Tariq,29,Male,Peshawar
-8,8901234567,Zainab Iqbal,26,Female,Quetta
-9,9012345678,Ahmad Raza,31,Male,Sialkot
-10,1123456789,Hira Sheikh,23,Female,Hyderabad
+ID,Gender_ID,cell,Name,Age,Gender,City
+1,1,1234567890,Ali Khan,25,Male,Lahore
+2,2,2345678901,Sara Ahmed,22,Female,Karachi
+3,1,3456789012,Bilal Hussain,28,Male,Islamabad
+4,2,4567890123,Ayesha Malik,30,Female,Faisalabad
+5,1,5678901234,Hamza Ali,27,Male,Rawalpindi
+6,2,6789012345,Fatima Noor,24,Female,Multan
+7,1,7890123456,Usman Tariq,29,Male,Peshawar
+8,2,8901234567,Zainab Iqbal,26,Female,Quetta
+9,1,9012345678,Ahmad Raza,31,Male,Sialkot
+10,2,1123456789,Hira Sheikh,23,Female,Hyderabad

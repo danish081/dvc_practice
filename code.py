@@ -7,6 +7,7 @@ os.makedirs("Data", exist_ok=True)
 # Data for 10 people
 data = {
     "ID": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "Gender_ID": [1, 2, 1, 2, 1, 2, 1, 2, 1, 2],
     "cell" : [1234567890, 2345678901, 3456789012, 4567890123, 5678901234, 6789012345, 7890123456, 8901234567, 9012345678, 1123456789],
     "Name": [
         "Ali Khan", "Sara Ahmed", "Bilal Hussain", "Ayesha Malik", "Hamza Ali",
